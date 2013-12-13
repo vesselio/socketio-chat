@@ -1,0 +1,5 @@
+gevent
+django==1.4.5
+gevent-websocket
+git+https://github.com/abourget/gevent-socketio.git
+
